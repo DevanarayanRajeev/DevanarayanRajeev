@@ -1,7 +1,7 @@
-#Comics
-#Illustrations
-#Game Dev
-#Music
+# Comics
+# Illustrations
+# Game Dev
+# Music
 <!--
 **DevanarayanRajeev/DevanarayanRajeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
